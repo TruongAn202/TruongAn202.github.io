@@ -1,4 +1,4 @@
--	Các chức năng đã thực hiện:
+-	Các chức năng đã thực hiện: https://nguyenvantruongan.000webhostapp.com/
 -	Ứng dụng các thư viện, kỹ thuật, framework, ngôn ngữ như HTML/CSS, JavaScript, Jquery, JSON, Bootstrap 
 -	Tương thích với các thiết bị di động
 -	Hiệu ứng giữ màu khi chọn và đổi màu trong lúc rê chuột vào liên kết
